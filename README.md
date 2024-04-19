@@ -1,8 +1,9 @@
-❤️Heyyy whatsup everybody? 
--U good?
-Ha, nice to see you here. I'm a freelance coder or something like that. Don't see my code because that the first time I learned and touched this, about c, c++, HTML, CSS, and python. Oh, im just deleting my web code because this is trash, i know coding is hard like very hard, 
-but i can't leave "because hard"
-, i'm still here, my job, my life is coding and you know i love code, i love somebody love it too, im realy admire someone coding right in front of me
+Hello everyone, how are you doing? 
+It's great to see you all here. 
+I work as a freelance coder and have experience with languages such as C, C++, HTML, CSS, and Python. 
+Although coding can be challenging, I am determined to continue learning and improving my skills.
+I recently had to delete some of my web code because it wasn't up to my standards, but that's all part of the learning process.
+I am passionate about coding and am always inspired when I see someone else coding.
 - Just a talk about myself
 - Good to see you and nice day bro!!!!
 
