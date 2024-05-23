@@ -11,3 +11,5 @@ I am passionate about coding and am always inspired when I see someone else codi
 phuong2k4/phuong2k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Screenshot (4)](https://github.com/phuong2k4/phuong2k4/assets/130499224/a5236f7c-a872-40a9-bd51-5407f58d10b4)
