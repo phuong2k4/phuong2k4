@@ -1,3 +1,5 @@
+# Introduce
+
 Hello everyone, how are you doing? 
 It's great to see you all here. 
 I work as a freelance coder and have experience with languages such as C, C++, HTML, CSS, and Python. 
@@ -7,31 +9,33 @@ I am passionate about coding and am always inspired when I see someone else codi
 - Just a talk about myself
 - Good to see you and nice day bro!!!!
 
+# Infomation
 
-------------------------------------------------------------------------------------------------------
+### Tecnologies:
 
-
-Tecnologies:
-
-  ✅ HTML	
+   ```
+   HTML
   
-  ✅ CSS
+   CSS
 
-  ✅ Git and GitHub
+   Git and GitHub
 
-  ✅ Python
+   Python
 
-  ✅ C & C++
+   C & C++
+```
 
----------------------------------------------------------------------------------------------------------
 
-Tools:
+## Tools:
+```
+ Visual Studio and Studio Code
 
-✅  Visual Studio and Studio Code
-✅  Pycharm Community
-✅  Figma
-✅  Git
+ Pycharm Community
 
+ Figma
+
+ Git
+```
 ---------------------------------------------------------------------------------------------------------
 
 
