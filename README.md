@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuong2k4&label=Profile%20views&color=0e75b6&style=flat" alt="phuong2k4" /> </p>
 
-- 🌱 I’m currently learning **a litle bit python and course Web Deverlopment by Udemy**
+- 🌱 I’m currently learning **a litle bit python and course Web Development by Udemy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/phuong2k4](https://github.com/phuong2k4)
 
